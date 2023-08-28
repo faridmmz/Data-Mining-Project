@@ -4,6 +4,17 @@ Welcome to the Data Mining Project conducted by Faridreza Momtazzandi and Alirez
 ![Photo by <a href="https://unsplash.com/@cgower?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Christopher Gower</a> on <a href="https://unsplash.com/photos/m_HRfLhgABo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   ](https://github.com/faridmmz/Data-Mining-Project/blob/main/README_image.jpg)
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Phase 1: Data Understanding and Exploration](#phase-1:-Data-Understanding-and-Exploration)
+- [Phase 2: Data Cleaning and Preprocessing](#Phase-2:-Data-Cleaning-and-Preprocessing)
+- [Phase 3: Exploratory Data Analysis and Insights](#Phase-3:-Exploratory-Data-Analysis-and-Insights)
+- [Phase 4: Advanced Analysis and Prediction](#Phase-4:-Advanced-Analysis-and-Prediction)
+- [Repository Structure](#Repository-Structure)
+- [Conclusion](#Conclusion)
+
+
 ## Introduction
 This repository contains the comprehensive analysis of a data mining project, focusing on the exploration, cleaning, and analysis of complex datasets related to assets. The project is divided into four phases, each targeting specific objectives and questions regarding the assets dataset. The primary goal is to gain insights, answer critical and real-world questions, and make informed predictions using data mining techniques. The analysis was performed using Jupyter Notebooks and the Pandas library in Python.
 This dataset was given to us by the Department of Finance and Assets so we can work on a real-world dataset.

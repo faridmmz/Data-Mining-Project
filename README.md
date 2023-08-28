@@ -7,9 +7,9 @@ Welcome to the Data Mining Project conducted by Faridreza Momtazzandi and Alirez
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Phase 1: Data Understanding and Exploration](#phase-1:-Data-Understanding-and-Exploration)
-- [Phase 2: Data Cleaning and Preprocessing](#Phase-2:-Data-Cleaning-and-Preprocessing)
-- [Phase 3: Exploratory Data Analysis and Insights](#Phase-3:-Exploratory-Data-Analysis-and-Insights)
+- [Phase 1: Data Understanding and Exploration](#phase-1-Data-Understanding-and-Exploration)
+- [Phase 2: Data Cleaning and Preprocessing](#Phase-2-Data-Cleaning-and-Preprocessing)
+- [Phase 3: Exploratory Data Analysis and Insights](#Phase-3-Exploratory-Data-Analysis-and-Insights)
 - [Phase 4: Advanced Analysis and Prediction](#Phase-4-Advanced-Analysis-and-Prediction)
 - [Repository Structure](#Repository-Structure)
 - [Conclusion](#Conclusion)

@@ -68,7 +68,10 @@ The repository contains the following files and directories:
 This project demonstrates the step-by-step process of exploring, cleaning, and analyzing complex and real-world datasets to extract valuable insights and make informed decisions. By utilizing data mining techniques, we were able to uncover trends, correlations, and patterns within the asset data, providing actionable recommendations for asset management and strategic planning.
 
 For any inquiries or further information, please contact us at:
+
 •   Faridreza Momtaz Zandi - faridmmz79@gmail.com
+
 •   Alireza Noorbakhsh - noorbakhsha1@gmail.com
+
 Thank you for exploring our data mining project!
 

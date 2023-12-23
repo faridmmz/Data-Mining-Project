@@ -27,6 +27,7 @@ In this phase, we aimed to understand the structure of the datasets, identify ke
 - Determining data types and distributions
 
 ## Phase 2: Data Cleaning and Preprocessing
+
 Building on the knowledge gained in Phase 1, the focus of this phase was on data cleaning and preparation for subsequent analysis and preparing the dataset for accurate analysis in subsequent phases. Techniques employed:
 - Dealing with outliers and anomalies
 - Addressing inconsistent data formats and units
